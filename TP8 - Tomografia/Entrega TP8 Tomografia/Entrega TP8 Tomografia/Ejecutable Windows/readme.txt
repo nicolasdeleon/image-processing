@@ -1,0 +1,1 @@
+El ejecutable esta en la carpeta main_gui/main_gui.exe

@@ -1,0 +1,1 @@
+pyuic5 -x gui_radon.ui -o gui_radon.py
